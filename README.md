@@ -131,6 +131,7 @@ Redact the following:
 * Meeting locations.
 * Discord server-specific info, like invite links, ping roles, specific roles, channels, etc. 
 * Personal sensitive information, such as last names, email addresses, social accounts, etc. unless they're a project contributor.
+* Comments made by you or another contributor.
 * Any references to other clubs, professors, local schools, parks, etc.
 * Any information related to the club internally that does not affect the public-face or matter to the documentation.
 * The information of votes, except for the outcome.
