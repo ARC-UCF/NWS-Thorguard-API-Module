@@ -49,7 +49,7 @@ And understand how to work with a team.
 
 If you ever wanna get in contact with me to discuss any part of this, no matter when and where, you can find me under the username "skyechannelwrx" on Discord, Instagram, Twitter, and GitHub. Contact me on any of those (though GitHub and Discord might be best) and I will answer your questions, but do specify you wanna talk about this project.
 
-Skye signing off.
+Skye[2] signing off.
 
 ZCZC
 
